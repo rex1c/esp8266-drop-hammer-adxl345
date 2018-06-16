@@ -9,7 +9,7 @@
 - now use webrepl to upload the ADXL345.py and boot.py on it
 - execute Plotter.py 
 - set the time and port then  start 
-> requirements <img src="https://www.python.org/static/opengraph-icon-200x200.png" width="83"/></p>
+> requirements 
 - `pip install -r requirements.txt`
 
 
