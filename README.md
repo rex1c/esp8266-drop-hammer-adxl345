@@ -1,3 +1,11 @@
 # esp8266-drop hammer- ADXL345 accelerometer sensor setup
 
-This project is about setting up ADXL345 sensor with esp8266 and using micropython,shown as plotter in clinet side.
+> # About
+- This project is about setting up ADXL345 sensor with esp8266 and using micropython,shown as plotter in clinet side.
+>  usage 
+- first upload miropython firmware to nodemcu (<a href = "https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/repl.html" target = "_blank"> **micropython esp8266** </a>)
+- open repl and use this command to setting up webrepl `import webrepl`
+- do the installination
+- now use webrepl to upload the ADXL345 and boot.py on it
+- execute clinet.py 
+- set the time and port then  start 
