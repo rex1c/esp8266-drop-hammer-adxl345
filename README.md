@@ -7,5 +7,5 @@
 - open repl and use this command to setting up webrepl `import webrepl`
 - do the installination
 - now use webrepl to upload the ADXL345 and boot.py on it
-- execute clinet.py 
+- execute Plotter.py 
 - set the time and port then  start 
