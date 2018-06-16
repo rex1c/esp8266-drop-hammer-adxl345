@@ -9,7 +9,7 @@ adx = ADXL345.ADXL345(i2c)
 addr = socket.getaddrinfo('0.0.0.0',4444)[0][-1]
 s = socket.socket()
 s.bind(addr)
-s.listen(2)j
+s.listen(2)
 cl , addr = s.accept()
 # serial connection and data sending
 def serial():
