@@ -16,7 +16,6 @@ def serial():
 	import machine
 	from time import*
 	import socket
-	adc = machine.ADC(0)
 	while True:
 		z = adx.zValue
 		print(z)	
