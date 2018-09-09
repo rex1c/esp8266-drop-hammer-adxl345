@@ -1,4 +1,4 @@
-# Esp8266-Drop hammer- ADXL345 accelerometer sensor setup
+# Esp8266 - ADXL345 - accelerometer sensor setup
 
 > # About
 - This project is about setting up ADXL345 sensor with esp8266 and using micropython,shown as plotter in client side.
